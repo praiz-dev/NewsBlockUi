@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="news_block">News Block</string>
+    <string name="everything_you_want_to_know">Everything You want To Know</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="e_mail">E-mail</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="password">Password</string>
+    <string name="johndoe_gmail_com">johndoe@gmail.com</string>
+    <string name="logo">Logo</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+
+</resources>
